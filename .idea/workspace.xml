@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba1af148-434c-49ef-b775-d53dbb82e96b" name="Changes" comment="initialised">
-      <change afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/core/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/core/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/core/prompts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/core/story_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/db/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/models/job.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/models/story.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/routers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/routers/job.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/routers/story.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/schemas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/schemas/job.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/schemas/story.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="ba1af148-434c-49ef-b775-d53dbb82e96b" name="Changes" comment="started coding" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,11 +86,20 @@
       <option name="project" value="LOCAL" />
       <updated>1760684389997</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="started coding">
+      <option name="closed" value="true" />
+      <created>1760685884163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760685884163</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialised" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialised" />
+    <MESSAGE value="started coding" />
+    <option name="LAST_COMMIT_MESSAGE" value="started coding" />
   </component>
 </project>
